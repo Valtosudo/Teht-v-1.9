@@ -1,0 +1,14 @@
+C:\Users\valts\OneDrive\Tiedostot\Koodi\bin\Debug\net8.0\Koodi.exe
+C:\Users\valts\OneDrive\Tiedostot\Koodi\bin\Debug\net8.0\Koodi.deps.json
+C:\Users\valts\OneDrive\Tiedostot\Koodi\bin\Debug\net8.0\Koodi.runtimeconfig.json
+C:\Users\valts\OneDrive\Tiedostot\Koodi\bin\Debug\net8.0\Koodi.dll
+C:\Users\valts\OneDrive\Tiedostot\Koodi\bin\Debug\net8.0\Koodi.pdb
+C:\Users\valts\OneDrive\Tiedostot\Koodi\obj\Debug\net8.0\Koodi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valts\OneDrive\Tiedostot\Koodi\obj\Debug\net8.0\Koodi.AssemblyInfoInputs.cache
+C:\Users\valts\OneDrive\Tiedostot\Koodi\obj\Debug\net8.0\Koodi.AssemblyInfo.cs
+C:\Users\valts\OneDrive\Tiedostot\Koodi\obj\Debug\net8.0\Koodi.csproj.CoreCompileInputs.cache
+C:\Users\valts\OneDrive\Tiedostot\Koodi\obj\Debug\net8.0\Koodi.dll
+C:\Users\valts\OneDrive\Tiedostot\Koodi\obj\Debug\net8.0\refint\Koodi.dll
+C:\Users\valts\OneDrive\Tiedostot\Koodi\obj\Debug\net8.0\Koodi.pdb
+C:\Users\valts\OneDrive\Tiedostot\Koodi\obj\Debug\net8.0\Koodi.genruntimeconfig.cache
+C:\Users\valts\OneDrive\Tiedostot\Koodi\obj\Debug\net8.0\ref\Koodi.dll

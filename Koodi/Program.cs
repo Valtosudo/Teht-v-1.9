@@ -17,38 +17,10 @@ class Program
 
             int vastaus = Convert.ToInt32(Console.ReadLine());
             
-            if (vastaus == 1)
-            {
-                Kirja.LisaaKirja();
-            }
-            else if (vastaus == 2)
-            {
-                Kirja.PoistaKirja();
-            }
-            else if (vastaus == 3)
-            {
-                Kirja.NaytaKaikkiKirjat();
-            }
-            else if (vastaus == 4)
-            {
-                Kirja.NaytaKirjatGendrenMukaan();
-            }
-            else if (vastaus == 5)
-            {
-                Kirja.LoydaKirja();
-            }
-            else if (vastaus == 6)
-            {
-                Console.WriteLine("Kiitos, että käytit kirjastoa!");
-                break;
-            }
-            else
-            {
-                Console.WriteLine("Virheellinen valinta, yritä uudelleen.");
-            }
-
+            break;
         }
 
 
     }
 }
+
